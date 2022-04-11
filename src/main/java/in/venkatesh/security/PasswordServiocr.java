@@ -10,6 +10,8 @@ public class PasswordServiocr {
 
 	int a=10;
 
+	int x=60;
+
 	public static String encode(String txt) {
 
 		Encoder encoder = Base64.getEncoder();
