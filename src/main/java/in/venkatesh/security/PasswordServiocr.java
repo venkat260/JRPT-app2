@@ -10,9 +10,13 @@ public class PasswordServiocr {
 
 	int a=10;
 
+
 	int b=40;
 
 	int abc=200;
+
+	int x=60;
+
 
 	public static String encode(String txt) {
 
